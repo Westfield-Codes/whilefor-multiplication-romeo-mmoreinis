@@ -1,6 +1,5 @@
 main();
 /* Multiplication Quiz */
-
 // Create 2 variables, a & b, and set to random integers between 3 and 9
 // Display them as the equation:  a * b = ??
 // Convert this display (same line, not new) to a question and store input in a variable called entry
@@ -26,4 +25,3 @@ function quizQuestion(question){
         else alert("Incorrect!");
     }
 }
-
